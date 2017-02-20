@@ -2,7 +2,7 @@
 
 This is a project using mas Fibonacci heap to find the n most popular hashtags appeared on social media.
 
-UF COP 5536 Fall 2016 Programming Project
+UF COP 5536 Advanced Data Structures Fall 2016 Programming Project
 
 
 ##Description
